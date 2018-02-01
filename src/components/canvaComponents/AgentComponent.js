@@ -6,8 +6,8 @@ class AgentComponent
         this.ctx= ctx;
         this.width = width;
         this.height = height;
-        this.speedX = 4;
-        this.speedY = 4;
+        this.speedX = 5;
+        this.speedY = 5;
 	this.orientation= "N";
         this.x = x;
         this.y = y;
