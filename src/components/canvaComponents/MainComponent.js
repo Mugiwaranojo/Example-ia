@@ -1,6 +1,6 @@
 import React from 'react';
 import BasicComponent from "./BasicComponent";
-import AgentComponent from "./AgentComponent";
+import AgentComponent from "./Agent2";
 
 class MainComponent extends React.Component {
     
